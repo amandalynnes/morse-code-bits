@@ -1,6 +1,6 @@
 <img height="120px" src="img/morse-code.jpg" />
 
-# Morse Code
+# Morse Code: Bits
 In this assignment you will create a Python script that can decode messages provided in Morse code format by building a low-level translator that is capable of reading key presses from a telegraph switch, and translating them into dots and dashes (short and long press). This assignment is from a Codewars kata, see References below.
 
 Morse code and telegraphs were widely used in the US in the 1850s and 1860s. It was the very first telecommunication device, and revolutionized the way people messaged each other. To this day, it still has its use in some applications, but has mostly been replaced with digital data channels.
